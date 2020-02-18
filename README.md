@@ -1,7 +1,6 @@
 # Mini-Projects
 
-This repository contains the mini projects created while learning the concepts of Statistics, Machine Learning Algorithm and Machile Learning libraries. .
-It also contains the Data Science projects which I have done for self learning purpose.
+This repository contains the mini projects created while learning the concepts of Statistics, Machine Learning Algorithm and Machile Learning libraries.
 
 - ### Statistical Test :
 
