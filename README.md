@@ -5,15 +5,21 @@ It also contains the Data Science projects which I have done for self learning p
 
 - ### Statistical Test :
 
+  - Hypothesis Testing
+  - Chi-Square Test
+  - ANOVA
+  - T-test
+  - z-test
+
 - ### Machine Learning Libraries :
 
   - [Pandas]
   - [Numpy]
-  - [Matplotlib]
+  - [Matplotlib](https://github.com/DhruTewa/Mini-Projects/blob/master/Machine%20Learning%20Libraries/Learning%20Matplotlib%20.ipynb)
   - [Sci-kit Learn]
   
 - ### Machine Learning Algorithms :
    #### Classification
-   - [Logistic Regression](https://github.com/DhruTewa/Data-Science-Portfolio/blob/master/Logistic%20Regression.ipynb)
-   - [K-Nearest Neighbor](https://github.com/DhruTewa/Data-Science-Portfolio/blob/master/K-Nearest%20Neighbor.ipynb)
-   - [Support Vector Machine(SVM)](https://github.com/DhruTewa/Data-Science-Portfolio/blob/master/SVM.ipynb)
+   - [Logistic Regression](https://github.com/DhruTewa/Mini-Projects/blob/master/Machine%20Learning%20Algorithm/Logistic%20Regression.ipynb)
+   - [K-Nearest Neighbor](https://github.com/DhruTewa/Mini-Projects/blob/master/Machine%20Learning%20Algorithm/K-Nearest%20Neighbor.ipynb)
+   - [Support Vector Machine(SVM)](https://github.com/DhruTewa/Mini-Projects/blob/master/Machine%20Learning%20Algorithm/SVM.ipynb)
